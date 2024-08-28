@@ -1,0 +1,27 @@
+tbody tr:nth-child(odd) {
+    background-color: #ddd;
+  }
+  tbody tr:nth-child(even) {
+    background-color: #eee;
+  }
+  body {
+    font-family: Verdana;
+  }
+  table {
+    width: 35%;
+  }
+  thead tr {
+    background-color: #000;
+    color: #FFFFFF;
+  }
+  th, td {
+    padding: 0px;
+    text-align: center;
+  }
+  th {
+    font-weight: bold;
+  }
+  img{width:35%}
+  img{ margin-left: 5px}
+  h1 img{width:35%}
+  
